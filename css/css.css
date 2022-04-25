@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+
+}
+html{
+
+    font-size: 10px; /*TAMAÑO GENERAL*/
+    font-family: 'Roboto', sans-serif; /*TIPO DE LETRA GENERAL*/
+
+}
+
+:root{
+
+    --colorTextoClaro: #3C3C4399;
+    --colorBlck: #000000;
+    --colorBlckgraound: #f2f2f7;
+    --colorazul: #007aff;
+
+    --size17: 17px;
+    --size15: 15px;
+
+    
+
+
+
+
+
+
+
+}

@@ -1,0 +1,75 @@
+.Clase{
+    font-size: 1.7rem;
+    font-weight: 400;
+    color: var(--colorTextoClaro);
+
+
+}
+
+.Login{
+width: 360px;
+height: 900px;
+    background-image: url(https://raw.githubusercontent.com/jefuentes80/ejercicio-2-PCD/main/ZxAHqBw.png);
+    padding: 5px;
+    background-repeat: no-repeat;
+
+    margin: 1rem 1rem;
+    
+
+}
+
+
+.TituloPrincipal{
+    font-size: 4.5rem;
+    font-weight: 800;
+    margin-top: 3.8rem;
+}
+
+.TituloDecorado{
+    font-size: 2rem;
+    font-weight: 600;
+
+}
+
+.Formulario{
+    display: flex;
+    flex-direction: column;
+
+
+
+}
+.Formulario label{
+    color: var(--colorTextoClaro);
+    font-size: 1.5rem;
+    margin-top: 6rem;
+
+}
+
+#vuelo{
+    background-color: #F2F2F7;
+    width: 93%;
+    margin: auto;
+    padding: 1.1rem 1.6rem;
+    margin-top: 1.6rem;
+    border: 0;
+    border-radius: 8px;
+    outline-style: none;
+    font-size: var(--size17)
+
+
+}
+
+#button{
+    height: 4.4rem;
+    background-color: var(--colorazul);
+    width: 93%;
+    margin: auto;
+    
+
+    color: #ffffff;
+    margin-top: 1.6rem;
+    border: 0;
+    border-radius: 8px;
+    font-size: var(--size17);
+}
+
